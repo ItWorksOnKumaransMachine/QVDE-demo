@@ -17,3 +17,6 @@ System Architecture
 
 6. Export Layer
    → saves figures and videos
+
+7. Hardware Layer
+   → Rasberry Pi

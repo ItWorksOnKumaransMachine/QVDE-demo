@@ -1,2 +1,1 @@
-QVDE Demo - turns into OptiGPU
-FRIDAY PRESENTATION
+MSI GTX 1060 + Software Update
